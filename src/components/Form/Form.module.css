@@ -1,0 +1,18 @@
+.contenedor{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: large;
+   color:black;
+   background-color: rgb(117, 197, 135); /* Color de fondo */
+   margin: 0 auto; /* Centramos el formulario */
+   width: 300px;   /* Sin ancho no podemos centrar el formulario */
+   background-color: white; /* Color blanco para el formulario */
+   margin: 0 auto; /* Centramos el formulario */
+   width: 300px;   /* Sin ancho no podemos centrar el formulario */
+   background-color: white; /* Color blanco para el formulario */
+   padding: 2px; /* separamos los bordes del form del resto de elementos */
+   border-radius: 10px; /* Redondeamos los bordes del form */
+   padding: 5px;
+  
+   
+   
+}
